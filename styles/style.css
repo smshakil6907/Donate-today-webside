@@ -1,4 +1,9 @@
 /* banner section style */
+
+.all-text-color {
+  color: #707070;
+}
+
 .banner-container {
   max-width: 1440px;
   height: 500px;
@@ -38,6 +43,8 @@
   padding: 25px;
   background-color: #fafafa;
   border: none;
+  color: #707070;
+  font-size: 1rem;
 }
 .donate-amount button:hover {
   border: 2px solid #0c8ce9;
@@ -46,6 +53,7 @@
 }
 .amount {
   text-align: center;
+  color: #707070;
 }
 hr {
   width: 440px;
