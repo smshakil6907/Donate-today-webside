@@ -1,0 +1,160 @@
+/* banner section style */
+.banner-container {
+  max-width: 1440px;
+  height: 500px;
+  background-color: #fafafa;
+  display: flex;
+  justify-content: space-around;
+}
+.banner-text-container {
+  margin-top: 100px;
+}
+.banner-text-container button {
+  padding: 8px;
+  background-color: #ff5959;
+  border: none;
+  border-radius: 5px;
+  color: white;
+}
+.banner-text-container a {
+  text-decoration: none;
+  color: #707070;
+}
+.banner-text-container i {
+  margin-left: 12px;
+  color: #707070;
+}
+.banner-image-container img {
+  margin-top: 40px;
+}
+/* donate today section style */
+.donate-today {
+  text-align: center;
+}
+.donate-amount {
+  text-align: center;
+}
+.donate-amount button {
+  padding: 25px;
+  background-color: #fafafa;
+  border: none;
+}
+.donate-amount button:hover {
+  border: 2px solid #0c8ce9;
+  border-radius: 5px;
+  text-decoration: underline;
+}
+.amount {
+  text-align: center;
+}
+hr {
+  width: 440px;
+}
+.btn-primary {
+  margin-left: 580px;
+  margin-top: 15px;
+  padding: 8px;
+  background-color: #ff5959;
+  border: none;
+  border-radius: 5px;
+  color: white;
+}
+/* our donate plan section style */
+.our-plan-container {
+  text-align: center;
+  margin-top: 50px;
+}
+.our-plan-card {
+  display: flex;
+  justify-content: center;
+}
+.card1 {
+  height: 200px;
+  width: 200px;
+  margin: 5px;
+  background-color: #edf5f6;
+  border-radius: 5px;
+}
+.card2 {
+  height: 200px;
+  width: 200px;
+  margin: 5px;
+  background-color: #ffeeee;
+  border-radius: 5px;
+}
+.card3 {
+  height: 200px;
+  width: 200px;
+  margin: 5px;
+  background-color: #fff4d6;
+  border-radius: 5px;
+}
+.card1-text {
+  padding: 8px;
+}
+/* more help section style */
+.help-more-container {
+  width: 800px;
+  height: 600px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+.help-more-container img {
+  width: 78%;
+}
+.card-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  margin-left: 70px;
+}
+.card-container button {
+  padding: 8px;
+  background-color: #ff5959;
+  border: none;
+  border-radius: 5px;
+  color: white;
+}
+/* my updates secton style */
+.my-updates {
+  text-align: center;
+  margin-top: 60px;
+}
+.email-section {
+  width: 550px;
+  height: 130px;
+  margin: 0 auto;
+  background-color: #fff4d6;
+  margin-top: 35px;
+}
+/* footer section style */
+.footer-section {
+  text-align: center;
+  margin-top: 50px;
+  background-color: #0b0d17;
+  color: white;
+  padding: 23px;
+}
+.footer-section h3 {
+  color: #ff5959;
+}
+.input-style {
+  margin-left: 90px;
+  padding-top: 50px;
+}
+.input {
+  width: 15rem;
+  background-color: #d9d9d9;
+  padding: 8px;
+  border: none;
+  border-radius: 5px;
+}
+.button {
+  width: 8rem;
+  background-color: #ff5959;
+  padding: 8px;
+  border: none;
+  color: white;
+  margin-left: -20px;
+  border-bottom-right-radius: 5px;
+  border-top-right-radius: 5px;
+}
